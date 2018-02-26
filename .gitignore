@@ -2,3 +2,4 @@
 assign_1/data/
 assign_1/source_code/result/
 *.pyc
+!assign_1/source_code/result/accuracy_results.png
