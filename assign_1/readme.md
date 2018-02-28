@@ -2,7 +2,7 @@
 # Text classification
 
 ## Report
-[text classification using ngram features](./report_assign1.pdf)
+[text classification using ngram features](./text_classification_assign1.pdf)
 
 ## Compatibility
 * Python 2.7 / Python 3.4
