@@ -18,7 +18,7 @@ The code is runned in a 2.5 GHz Intel Core i7 with MacOS systems.
 By [arff2txts.py](https://github.com/ShuangXieIrene/CSI5180Topics_in_Artifical_Intelligence/blob/master/assign_2/source_code/arff2txts.py): convert arff format file that contains examples from AI and Not-AI (Biology) into two groups of documents. One group has 2383
 documents belonged to AI category and the other group has 1747 documents belonged to Biology category.
 
-By [uris.py](https://github.com/ShuangXieIrene/CSI5180Topics_in_Artifical_Intelligence/blob/master/assign_2/source_code/uris.py): extract URIs from documents. Using [DBpedia Spotlight](http://www.dbpedia-spotlight.org/)
+By [uris.py](https://github.com/ShuangXieIrene/CSI5180Topics_in_Artifical_Intelligence/blob/master/assign_2/source_code/urls.py): extract URIs from documents. Using [DBpedia Spotlight](http://www.dbpedia-spotlight.org/)
 
 ### Training
 By [classifier_10fold.py](https://github.com/ShuangXieIrene/CSI5180Topics_in_Artifical_Intelligence/blob/master/assign_2/source_code/classifier_10fold.py).
